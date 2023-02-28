@@ -2,7 +2,7 @@
 
 ## Description
 
-I created this Social Network API in order to create an interactive database where users can create a User, add other users as Friends, post Thoughts and add or remove Reactions to those Thoughts. I am able to view Users, their associated friends, Thoughts, and associated Reactions. I am able to add Users, update Users, remove Users, add other users as Friends, remove Users as friends, create Thoughts, update Thoughts, remove Thoughts, React to thoughts, and remove Reactions from Thoughts. This application utilizes Node and Express.js to create the application routes, MongoDB and mongoose to create and modify the database, and Insomnia to test and present all working capabilities. I learned how to improve coding structure and accessibility of MongoDB databases utilizing mongoose, learned a new way to execute Express.js routes, and conducted testing of routes and database capabilities with Insomnia.
+I created this Progressive Web Application Text Editor in order to create an interactive database where users can type and persist text. This application features syntax highlighting and line numbering, that is useful in typing out code and visualizing code functions as you go! The user is able to type freely in the text box, and the data is saved into the indexedDB, which persists despite refreshing the page, allowing the user to continue working with the same data without losing information. This application utilizes Node.js, CRUD operations to create and update the persisted data, eslint, Webpack to build and bundle the code required for the application's functions, Manifest to allow for installation on the user's device, HTML, CSS, Github to store and edit code, and Heroku to deploy the application to a public domain. This project allowed me to practice my understanding of Progressive Web Applications, the utilization of Webpack and Manifest, and combining these features with my skills in CRUD operations, javascript, HTML, and CSS.
 
 ## Installation
 
@@ -43,7 +43,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Technologies Used
 
-Node.js, Express.js CRUD operations, eslint, Webpack, HTML, CSS, Manifest, Github (store and edit code), Heroku (deploy webpage)
+Node.js, CRUD operations, eslint, Webpack, HTML, CSS, Manifest, Github (store and edit code), Heroku (deploy webpage)
 
 ## License
 
