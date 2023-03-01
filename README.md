@@ -6,7 +6,7 @@ I created this Progressive Web Application Text Editor in order to create an int
 
 ## Installation
 
-This application can be accessed and utilized following Link:
+This application can be accessed and utilized following Link: https://mysterious-beyond-99818.herokuapp.com/
 
 In addition to this, you can install the application to your device by navigating to the link above, and clicking the "Install" button in the upper left hand portion of the page. Then, the application can be used in it's offline version on your device, as a stand-alone application.
 
