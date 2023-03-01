@@ -43,7 +43,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Technologies Used
 
-Node.js, CRUD operations, eslint, Webpack, HTML, CSS, Manifest, Github (store and edit code), Heroku (deploy webpage)
+Node.js, Express.js CRUD operations, MongoDB, eslint, Webpack, HTML, CSS, Manifest, Github (store and edit code), Heroku (deploy webpage)
 
 ## License
 
