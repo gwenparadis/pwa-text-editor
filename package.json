@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines" : { 
     "npm" : "8.19.2",
-    "node" : "v16.18.0"
+    "node" : "16.18.0"
   },
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
